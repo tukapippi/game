@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/STG.unity
     guid: f865486afdb6a47d8b2b9fc17603d219
+  - enabled: 1
+    path: "Assets/\u8131\u51FA\u30E1\u30CB\u30E5\u30FC.unity"
+    guid: 3e045e73a028833438bdfb05eaeb396f
   m_configObjects: {}
